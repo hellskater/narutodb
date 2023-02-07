@@ -20,7 +20,7 @@ class App {
   constructor(routes: Routes[]) {
     this.app = express();
     this.env = NODE_ENV || 'development';
-    this.port =  4000;
+    this.port = 4000;
 
     this.initializeMiddlewares();
     this.initializeRoutes(routes);
@@ -71,7 +71,7 @@ class App {
     };
 
     const specs = swaggerJSDoc(options);
-    this.app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs));
+    this.app.use('/docs', swaggerUi.serve, swaggerUi.setup(specs));
   }
 
   private initializeErrorHandling() {

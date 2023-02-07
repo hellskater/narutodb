@@ -29,13 +29,10 @@
       "@routes/*": ["routes/*"],
       "@services/*": ["services/*"],
       "@utils/*": ["utils/*"],
-      "@interfaces/*": ["interfaces/*"],
+      "@interfaces/*": ["interfaces/*"]
     }
   },
   "module": {
     "type": "commonjs"
   }
 }
-
-
-
