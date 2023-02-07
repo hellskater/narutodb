@@ -12,7 +12,8 @@ class CharactersRoute implements Routes {
 
   private initializeRoutes() {
     this.router.get('/character', this.characterController.getAll);
-    this.router.get('/character/:name', this.characterController.getByName);
+    this.router.get('/character/search', this.characterController.getByName);
+    this.router.get('/character/:id', this.characterController.getById);
   }
 }
 
