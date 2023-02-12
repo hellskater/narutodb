@@ -2,7 +2,7 @@ import fs from 'fs';
 import { Response } from 'express';
 
 export class KekkeiGenkaiService {
-  public kekkeigenkai = JSON.parse(fs.readFileSync(require.resolve('../data/kekkeigenkai.json'), 'utf8'));
+  public kekkeigenkai = JSON.parse(fs.readFileSync(require.resolve('../data/kekkeiGenkai.json'), 'utf8'));
 
   public getAllKekkeiGenkai(req: any, res: Response) {
     const page = req.query.page || 1;
