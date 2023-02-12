@@ -211,3 +211,72 @@ paths:
           description: 'Conflict'
         500:
           description: 'Server Error'
+
+  # [GET] all kara members
+  /kara:
+    get:
+      tags:
+        - kara
+      summary: Get all kara members
+      parameters:
+        - name: page
+          in: query
+          description: Page no.
+          type: string
+        - name: limit
+          in: query
+          description: No. of kara members
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] kara member by id
+  /kara/{id}:
+    get:
+      tags:
+        - kara
+      summary: Get kara member by id
+      parameters:
+        - name: id
+          in: path
+          description: kara id
+          required: true
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] search kara member
+  /kara/search:
+    get:
+      tags:
+        - kara
+      summary: Search kara member
+      parameters:
+        - name: name
+          in: query
+          description: kara member name
+          required: true
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
