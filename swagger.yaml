@@ -1,6 +1,8 @@
 tags:
   - name: characters
     description: characters API
+  - name: clans
+    description: clans API
 
 paths:
   # [GET] all characters
@@ -60,6 +62,75 @@ paths:
         - name: name
           in: query
           description: character name
+          required: true
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] all clans
+  /clan:
+    get:
+      tags:
+        - clans
+      summary: Get all clans
+      parameters:
+        - name: page
+          in: query
+          description: Page no.
+          type: string
+        - name: limit
+          in: query
+          description: No. of clans
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] clan by id
+  /clan/{id}:
+    get:
+      tags:
+        - clans
+      summary: Get clan by id
+      parameters:
+        - name: id
+          in: path
+          description: clan id
+          required: true
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] search clan
+  /clan/search:
+    get:
+      tags:
+        - clans
+      summary: Search clan
+      parameters:
+        - name: name
+          in: query
+          description: clan name
           required: true
           type: string
       responses:
