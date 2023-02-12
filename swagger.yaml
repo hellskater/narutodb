@@ -3,6 +3,18 @@ tags:
     description: characters API
   - name: clans
     description: clans API
+  - name: akatsuki
+    description: akatsuki API
+  - name: kara
+    description: kara API
+  - name: tailedbeasts
+    description: tailedbeasts API
+  - name: teams
+    description: teams API
+  - name: villages
+    description: villages API
+  - name: kekkeigenkai
+    description: kekkeigenkai API
 
 paths:
   # [GET] all characters
@@ -269,6 +281,282 @@ paths:
         - name: name
           in: query
           description: kara member name
+          required: true
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] all villages
+  /village:
+    get:
+      tags:
+        - villages
+      summary: Get all villages
+      parameters:
+        - name: page
+          in: query
+          description: Page no.
+          type: string
+        - name: limit
+          in: query
+          description: No. of villages
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] village by id
+  /village/{id}:
+    get:
+      tags:
+        - villages
+      summary: Get village by id
+      parameters:
+        - name: id
+          in: path
+          description: village id
+          required: true
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] search village
+  /village/search:
+    get:
+      tags:
+        - villages
+      summary: Search village
+      parameters:
+        - name: name
+          in: query
+          description: village name
+          required: true
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] all teams
+  /team:
+    get:
+      tags:
+        - teams
+      summary: Get all teams
+      parameters:
+        - name: page
+          in: query
+          description: Page no.
+          type: string
+        - name: limit
+          in: query
+          description: No. of teams
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] team by id
+  /team/{id}:
+    get:
+      tags:
+        - teams
+      summary: Get team by id
+      parameters:
+        - name: id
+          in: path
+          description: team id
+          required: true
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] search team
+  /team/search:
+    get:
+      tags:
+        - teams
+      summary: Search team
+      parameters:
+        - name: name
+          in: query
+          description: team name
+          required: true
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] all tailed beasts
+  /tailed-beast:
+    get:
+      tags:
+        - tailed-beasts
+      summary: Get all tailed beasts
+      parameters:
+        - name: page
+          in: query
+          description: Page no.
+          type: string
+        - name: limit
+          in: query
+          description: No. of tailed beasts
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] tailed beast by id
+  /tailed-beast/{id}:
+    get:
+      tags:
+        - tailed-beasts
+      summary: Get tailed beast by id
+      parameters:
+        - name: id
+          in: path
+          description: tailed beast id
+          required: true
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] search tailed beast
+  /tailed-beast/search:
+    get:
+      tags:
+        - tailed-beasts
+      summary: Search tailed beast
+      parameters:
+        - name: name
+          in: query
+          description: tailed beast name
+          required: true
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] all kekkei genkai
+  /kekkei-genkai:
+    get:
+      tags:
+        - kekkei-genkai
+      summary: Get all kekkei genkai
+      parameters:
+        - name: page
+          in: query
+          description: Page no.
+          type: string
+        - name: limit
+          in: query
+          description: No. of kekkei genkai
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] kekkei genkai by id
+  /kekkei-genkai/{id}:
+    get:
+      tags:
+        - kekkei-genkai
+      summary: Get kekkei genkai by id
+      parameters:
+        - name: id
+          in: path
+          description: kekkei genkai id
+          required: true
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] search kekkei genkai
+  /kekkei-genkai/search:
+    get:
+      tags:
+        - kekkei-genkai
+      summary: Search kekkei genkai
+      parameters:
+        - name: name
+          in: query
+          description: kekkei genkai name
           required: true
           type: string
       responses:
