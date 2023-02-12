@@ -9,6 +9,15 @@ paths:
       tags:
         - characters
       summary: Get all characters
+      parameters:
+        - name: page
+          in: query
+          description: Page no.
+          type: string
+        - name: limit
+          in: query
+          description: No. of characters
+          type: string
       responses:
         200:
           description: 'OK'

@@ -5,7 +5,20 @@ export class CharacterService {
   public characters = JSON.parse(fs.readFileSync(require.resolve('../data/characters.json'), 'utf8'));
 
   public getAllCharacters(req: any, res: Response) {
-    return res.json(this.characters);
+    const page = req.query.page || 1;
+    const limit = req.query.limit || 20;
+
+    const startIndex = (page - 1) * limit;
+    const endIndex = page * limit;
+
+    const charactersToReturn = this.characters.slice(startIndex, endIndex);
+
+    return res.json({
+      characters: charactersToReturn,
+      currentPage: page,
+      pageSize: limit,
+      totalCharacters: this.characters.length,
+    });
   }
 
   public getCharacterById(req: any, res: Response) {
