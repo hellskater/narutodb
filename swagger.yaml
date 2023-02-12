@@ -142,3 +142,72 @@ paths:
           description: 'Conflict'
         500:
           description: 'Server Error'
+
+  # [GET] all akatsuki members
+  /akatsuki:
+    get:
+      tags:
+        - akatsuki
+      summary: Get all akatsuki members
+      parameters:
+        - name: page
+          in: query
+          description: Page no.
+          type: string
+        - name: limit
+          in: query
+          description: No. of akatsuki members
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] akatsuki member by id
+  /akatsuki/{id}:
+    get:
+      tags:
+        - akatsuki
+      summary: Get akatsuki member by id
+      parameters:
+        - name: id
+          in: path
+          description: akatsuki id
+          required: true
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+  # [GET] search akatsuki member
+  /akatsuki/search:
+    get:
+      tags:
+        - akatsuki
+      summary: Search akatsuki member
+      parameters:
+        - name: name
+          in: query
+          description: akatsuki member name
+          required: true
+          type: string
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
