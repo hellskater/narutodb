@@ -7,13 +7,13 @@ tags:
     description: akatsuki API
   - name: kara
     description: kara API
-  - name: tailedbeasts
+  - name: tailed-beasts
     description: tailedbeasts API
   - name: teams
     description: teams API
   - name: villages
     description: villages API
-  - name: kekkeigenkai
+  - name: kekkei-genkai
     description: kekkeigenkai API
 
 paths:
