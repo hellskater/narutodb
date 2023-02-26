@@ -32,7 +32,7 @@
       {
         "id": 105,
         "name": "Baiu",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/c/c8/Baiu.PNG/revision/latest/scale-to-width-down/300?cb=20150202180027"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/c/c8/Baiu.png/revision/latest/scale-to-width-down/300?cb=20150202180027"],
         "debut": {
           "manga": "Naruto Chapter #58",
           "anime": "Naruto Episode #21",
@@ -204,7 +204,7 @@
         "id": 448,
         "name": "Ibuse",
         "images": [
-          "https://static.wikia.nocookie.net/naruto/images/0/0d/Hanzo_and_The_Salamander.PNG/revision/latest/scale-to-width-down/300?cb=20210924004433"
+          "https://static.wikia.nocookie.net/naruto/images/0/0d/Hanzo_and_The_Salamander.png/revision/latest/scale-to-width-down/300?cb=20210924004433"
         ],
         "debut": {
           "manga": "Naruto Chapter #369",
@@ -249,7 +249,7 @@
       {
         "id": 526,
         "name": "Kagari",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/0/0e/Kagari2.PNG/revision/latest/scale-to-width-down/300?cb=20150129151929"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/0/0e/Kagari2.png/revision/latest/scale-to-width-down/300?cb=20150129151929"],
         "debut": {
           "manga": "Naruto Chapter #61",
           "anime": "Naruto Episode #36",
@@ -327,7 +327,7 @@
       {
         "id": 649,
         "name": "Kirisame",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/1/12/Kirisame.PNG/revision/latest/scale-to-width-down/300?cb=20221122212309"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/1/12/Kirisame.png/revision/latest/scale-to-width-down/300?cb=20221122212309"],
         "debut": {
           "novel": "Naruto: Mission: Protect The Waterfall Village! (novel)",
           "ova": "Mission: Protect the Waterfall Village!",
@@ -425,7 +425,7 @@
       {
         "id": 790,
         "name": "Midare",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/3/3c/Midare.PNG/revision/latest/scale-to-width-down/300?cb=20150202175920"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/3/3c/Midare.png/revision/latest/scale-to-width-down/300?cb=20150202175920"],
         "debut": {
           "manga": "Naruto Chapter #58",
           "anime": "Naruto Episode #21",
@@ -457,7 +457,7 @@
       {
         "id": 845,
         "name": "Mubi",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/4/43/Mubi2.PNG/revision/latest/scale-to-width-down/300?cb=20150220112904"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/4/43/Mubi2.png/revision/latest/scale-to-width-down/300?cb=20150220112904"],
         "debut": {
           "manga": "Naruto Chapter #61",
           "anime": "Naruto Episode #36",
@@ -493,7 +493,7 @@
       {
         "id": 854,
         "name": "Murasame",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/2/23/Murasame.PNG/revision/latest/scale-to-width-down/300?cb=20221122202947"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/2/23/Murasame.png/revision/latest/scale-to-width-down/300?cb=20221122202947"],
         "debut": {
           "novel": "Naruto: Mission: Protect The Waterfall Village! (novel)",
           "ova": "Mission: Protect the Waterfall Village!",
@@ -564,7 +564,7 @@
       {
         "id": 911,
         "name": "Oboro",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/5/51/Oboro.PNG/revision/latest/scale-to-width-down/300?cb=20150129150959"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/5/51/Oboro.png/revision/latest/scale-to-width-down/300?cb=20150129150959"],
         "debut": {
           "manga": "Naruto Chapter #46",
           "anime": "Naruto Episode #28",
@@ -661,7 +661,7 @@
       {
         "id": 1085,
         "name": "Shigure",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/d/dc/Shigure.PNG/revision/latest/scale-to-width-down/300?cb=20150202180150"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/d/dc/Shigure.png/revision/latest/scale-to-width-down/300?cb=20150202180150"],
         "debut": {
           "manga": "Naruto Chapter #58",
           "anime": "Naruto Episode #21",
@@ -1204,7 +1204,7 @@
       {
         "id": 1187,
         "name": "Tanishi",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/b/be/Tanishi.PNG/revision/latest/scale-to-width-down/300?cb=20150725121309"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/b/be/Tanishi.png/revision/latest/scale-to-width-down/300?cb=20150725121309"],
         "debut": {
           "anime": "Naruto Shippūden Episode #187",
           "appearsIn": "Anime"
@@ -1530,7 +1530,7 @@
       {
         "id": 300,
         "name": "Genmai",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/3/3a/Genmai.PNG/revision/latest/scale-to-width-down/300?cb=20100627193023"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/3/3a/Genmai.png/revision/latest/scale-to-width-down/300?cb=20100627193023"],
         "debut": { "ova": "Naruto: The Cross Roads", "appearsIn": "Anime" },
         "personal": { "sex": "Male", "affiliation": "Inaho Village" },
         "voiceActors": { "japanese": "Mitsuru Takakuwa" }
@@ -2010,7 +2010,7 @@
         "id": 507,
         "name": "Jibachi",
         "images": [
-          "https://static.wikia.nocookie.net/naruto/images/a/a8/Jibachi_Kamizuru.PNG/revision/latest/scale-to-width-down/300?cb=20150508014745"
+          "https://static.wikia.nocookie.net/naruto/images/a/a8/Jibachi_Kamizuru.png/revision/latest/scale-to-width-down/300?cb=20150508014745"
         ],
         "debut": { "anime": "Naruto Episode #148", "appearsIn": "Anime" },
         "family": {
@@ -2273,7 +2273,7 @@
         "id": 717,
         "name": "Kurobachi",
         "images": [
-          "https://static.wikia.nocookie.net/naruto/images/1/1e/Kurobachi_Kamizuru.PNG/revision/latest/scale-to-width-down/300?cb=20150508014342"
+          "https://static.wikia.nocookie.net/naruto/images/1/1e/Kurobachi_Kamizuru.png/revision/latest/scale-to-width-down/300?cb=20150508014342"
         ],
         "debut": { "anime": "Naruto Episode #148", "appearsIn": "Anime" },
         "family": {
@@ -2733,7 +2733,7 @@
       {
         "id": 1173,
         "name": "Taiseki",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/4/43/Taiseki.PNG/revision/latest/scale-to-width-down/300?cb=20210807191837"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/4/43/Taiseki.png/revision/latest/scale-to-width-down/300?cb=20210807191837"],
         "debut": {
           "manga": "Naruto Chapter #241",
           "anime": "Naruto Shippūden Episode #119",
@@ -3655,7 +3655,7 @@
       {
         "id": 546,
         "name": "Kajika",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/d/d1/Kajika.PNG/revision/latest/scale-to-width-down/300?cb=20101007230739"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/d/d1/Kajika.png/revision/latest/scale-to-width-down/300?cb=20101007230739"],
         "debut": { "ova": "Naruto: The Cross Roads", "appearsIn": "Anime" },
         "jutsu": [
           "Hiding with Camouflage Technique",
@@ -5739,7 +5739,7 @@
         "id": 783,
         "name": "Messenger Lizard",
         "images": [
-          "https://static.wikia.nocookie.net/naruto/images/c/c0/Messanger_Lizard.PNG/revision/latest/scale-to-width-down/300?cb=20210915200840"
+          "https://static.wikia.nocookie.net/naruto/images/c/c0/Messanger_Lizard.png/revision/latest/scale-to-width-down/300?cb=20210915200840"
         ],
         "personal": {
           "species": "Lizard",
@@ -5815,7 +5815,7 @@
       {
         "id": 855,
         "name": "Musai",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/6/6a/Musai.PNG/revision/latest/scale-to-width-down/300?cb=20211024040232"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/6/6a/Musai.png/revision/latest/scale-to-width-down/300?cb=20211024040232"],
         "debut": {
           "manga": "Naruto Chapter #546",
           "anime": "Naruto Shippūden Episode #296",
@@ -6940,7 +6940,7 @@
         "id": 266,
         "name": "Gamakichi",
         "images": [
-          "https://static.wikia.nocookie.net/naruto/images/e/e1/Gamakichi.PNG/revision/latest/scale-to-width-down/300?cb=20150130205312",
+          "https://static.wikia.nocookie.net/naruto/images/e/e1/Gamakichi.png/revision/latest/scale-to-width-down/300?cb=20150130205312",
           "https://static.wikia.nocookie.net/naruto/images/0/08/Gamakichi.png/revision/latest/scale-to-width-down/300?cb=20140905190436"
         ],
         "debut": {
@@ -7120,7 +7120,7 @@
         "id": 515,
         "name": "Jiraiya",
         "images": [
-          "https://static.wikia.nocookie.net/naruto/images/2/21/Profile_Jiraiya.PNG/revision/latest/scale-to-width-down/300?cb=20160115173538"
+          "https://static.wikia.nocookie.net/naruto/images/2/21/Profile_Jiraiya.png/revision/latest/scale-to-width-down/300?cb=20160115173538"
         ],
         "debut": {
           "manga": "Naruto Chapter #90",
@@ -7251,7 +7251,7 @@
       {
         "id": 697,
         "name": "Kōsuke",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/2/24/K%C5%8Dsuke.PNG/revision/latest/scale-to-width-down/300?cb=20210510120252"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/2/24/K%C5%8Dsuke.png/revision/latest/scale-to-width-down/300?cb=20210510120252"],
         "debut": {
           "manga": "Naruto Chapter #421",
           "anime": "Naruto Shippūden Episode #157",
@@ -7679,7 +7679,7 @@
       {
         "id": 8,
         "name": "Zaku Abumi",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/4/40/Zaku_Abumi.PNG/revision/latest/scale-to-width-down/300?cb=20150128180337"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/4/40/Zaku_Abumi.png/revision/latest/scale-to-width-down/300?cb=20150128180337"],
         "debut": {
           "manga": "Naruto Chapter #35",
           "anime": "Naruto Episode #21",
@@ -8041,7 +8041,7 @@
       {
         "id": 531,
         "name": "Kagerō",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/2/26/Kagero.PNG/revision/latest/scale-to-width-down/300?cb=20150601141445"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/2/26/Kagero.png/revision/latest/scale-to-width-down/300?cb=20150601141445"],
         "debut": { "anime": "Naruto Episode #137", "appearsIn": "Anime" },
         "jutsu": [
           "Antlion Ninja Arts: Ephemeral",
@@ -8068,7 +8068,7 @@
       {
         "id": 546,
         "name": "Kajika",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/d/d1/Kajika.PNG/revision/latest/scale-to-width-down/300?cb=20101007230739"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/d/d1/Kajika.png/revision/latest/scale-to-width-down/300?cb=20101007230739"],
         "debut": { "ova": "Naruto: The Cross Roads", "appearsIn": "Anime" },
         "jutsu": [
           "Hiding with Camouflage Technique",
@@ -8205,7 +8205,7 @@
       {
         "id": 628,
         "name": "Kigiri",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/3/3f/Kigiri.PNG/revision/latest/scale-to-width-down/300?cb=20170816201110"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/3/3f/Kigiri.png/revision/latest/scale-to-width-down/300?cb=20170816201110"],
         "debut": {
           "anime": "Naruto Shippūden Episode #91",
           "appearsIn": "Anime"
@@ -8226,7 +8226,7 @@
       {
         "id": 629,
         "name": "Kihō",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/3/3c/Kih%C5%8D.PNG/revision/latest/scale-to-width-down/300?cb=20110212211336"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/3/3c/Kih%C5%8D.png/revision/latest/scale-to-width-down/300?cb=20110212211336"],
         "debut": {
           "anime": "Naruto Shippūden Episode #91",
           "appearsIn": "Anime"
@@ -8498,7 +8498,7 @@
       {
         "id": 909,
         "name": "Nurari",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/c/c5/Nurari.PNG/revision/latest/scale-to-width-down/300?cb=20170816204616"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/c/c5/Nurari.png/revision/latest/scale-to-width-down/300?cb=20170816204616"],
         "debut": {
           "anime": "Naruto Shippūden Episode #91",
           "appearsIn": "Anime"
@@ -8742,7 +8742,7 @@
       {
         "id": 1265,
         "name": "Kin Tsuchi",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/f/f3/Kin_Tsuchi.PNG/revision/latest/scale-to-width-down/300?cb=20150128180505"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/f/f3/Kin_Tsuchi.png/revision/latest/scale-to-width-down/300?cb=20150128180505"],
         "debut": {
           "manga": "Naruto Chapter #35",
           "anime": "Naruto Episode #21",
@@ -10840,7 +10840,7 @@
       {
         "id": 692,
         "name": "Korobi",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/8/80/Korobi.PNG/revision/latest/scale-to-width-down/300?cb=20160203215403"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/8/80/Korobi.png/revision/latest/scale-to-width-down/300?cb=20160203215403"],
         "debut": {
           "anime": "Naruto Shippūden Episode #182",
           "appearsIn": "Anime"
@@ -11015,7 +11015,7 @@
       {
         "id": 851,
         "name": "Mukade (movie)",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/b/ba/Anrokuzan.PNG/revision/latest/scale-to-width-down/300?cb=20160118165724"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/b/ba/Anrokuzan.png/revision/latest/scale-to-width-down/300?cb=20160118165724"],
         "debut": {
           "novel": "Naruto Shippūden the Movie: The Lost Tower",
           "movie": "Naruto Shippūden the Movie: The Lost Tower",
@@ -11389,7 +11389,7 @@
       {
         "id": 1032,
         "name": "Sari",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/4/47/Sari.PNG/revision/latest/scale-to-width-down/300?cb=20150825105526"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/4/47/Sari.png/revision/latest/scale-to-width-down/300?cb=20150825105526"],
         "debut": {
           "manga": "Naruto Chapter #280",
           "anime": "Naruto Shippūden Episode #31",
@@ -12086,7 +12086,7 @@
       {
         "id": 1375,
         "name": "Yaoki",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/7/76/Yaoki.PNG/revision/latest/scale-to-width-down/300?cb=20220218105014"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/7/76/Yaoki.png/revision/latest/scale-to-width-down/300?cb=20220218105014"],
         "debut": {
           "anime": "Naruto Shippūden Episode #182",
           "appearsIn": "Anime"
@@ -12106,7 +12106,7 @@
       {
         "id": 1376,
         "name": "Yashamaru",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/e/ef/YashamaruHD.PNG/revision/latest/scale-to-width-down/300?cb=20211030011747"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/e/ef/YashamaruHD.png/revision/latest/scale-to-width-down/300?cb=20211030011747"],
         "debut": {
           "manga": "Naruto Chapter #129",
           "anime": "Naruto Episode #50",
@@ -12522,7 +12522,7 @@
       {
         "id": 1143,
         "name": "Suien",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/6/65/Suien.PNG/revision/latest/scale-to-width-down/300?cb=20221122205735"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/6/65/Suien.png/revision/latest/scale-to-width-down/300?cb=20221122205735"],
         "debut": {
           "novel": "Naruto: Mission: Protect The Waterfall Village! (novel)",
           "ova": "Mission: Protect the Waterfall Village!",
@@ -12877,7 +12877,7 @@
       {
         "id": 378,
         "name": "Hāto",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/c/c0/Hato.PNG/revision/latest/scale-to-width-down/300?cb=20220324123018"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/c/c0/Hato.png/revision/latest/scale-to-width-down/300?cb=20220324123018"],
         "debut": {
           "anime": "Naruto Shippūden Episode #148",
           "appearsIn": "Anime"
@@ -12969,7 +12969,7 @@
         "id": 1266,
         "name": "Tsuchigumo Chief",
         "images": [
-          "https://static.wikia.nocookie.net/naruto/images/2/23/Tsuchigumo_chief.PNG/revision/latest/scale-to-width-down/300?cb=20170325143852"
+          "https://static.wikia.nocookie.net/naruto/images/2/23/Tsuchigumo_chief.png/revision/latest/scale-to-width-down/300?cb=20170325143852"
         ],
         "debut": {
           "anime": "Naruto Shippūden Episode #145",
