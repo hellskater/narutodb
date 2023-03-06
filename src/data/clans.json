@@ -985,7 +985,7 @@
         "name": "First Animal Path (character)",
         "images": [
           "https://static.wikia.nocookie.net/naruto/images/c/cd/Animal_Path.png/revision/latest/scale-to-width-down/300?cb=20160113164348",
-          "https://static.wikia.nocookie.net/naruto/images/4/43/Animal_Path_Alive.png/revision/latest/scale-to-width-down/300?cb=20160113164415"
+          "https://static.wikia.nocookie.net/naruto/images/4/43/Animal_Path_Alive.PNG/revision/latest/scale-to-width-down/300?cb=20160113164415"
         ],
         "debut": {
           "manga": "Naruto Chapter #371",
@@ -1105,7 +1105,7 @@
       {
         "id": 531,
         "name": "Kagerō",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/2/26/Kagero.png/revision/latest/scale-to-width-down/300?cb=20150601141445"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/2/26/Kagero.PNG/revision/latest/scale-to-width-down/300?cb=20150601141445"],
         "debut": { "anime": "Naruto Episode #137", "appearsIn": "Anime" },
         "jutsu": [
           "Antlion Ninja Arts: Ephemeral",
@@ -3053,7 +3053,7 @@
         "id": 507,
         "name": "Jibachi",
         "images": [
-          "https://static.wikia.nocookie.net/naruto/images/a/a8/Jibachi_Kamizuru.png/revision/latest/scale-to-width-down/300?cb=20150508014745"
+          "https://static.wikia.nocookie.net/naruto/images/a/a8/Jibachi_Kamizuru.PNG/revision/latest/scale-to-width-down/300?cb=20150508014745"
         ],
         "debut": { "anime": "Naruto Episode #148", "appearsIn": "Anime" },
         "family": {
@@ -3096,7 +3096,7 @@
         "id": 717,
         "name": "Kurobachi",
         "images": [
-          "https://static.wikia.nocookie.net/naruto/images/1/1e/Kurobachi_Kamizuru.png/revision/latest/scale-to-width-down/300?cb=20150508014342"
+          "https://static.wikia.nocookie.net/naruto/images/1/1e/Kurobachi_Kamizuru.PNG/revision/latest/scale-to-width-down/300?cb=20150508014342"
         ],
         "debut": { "anime": "Naruto Episode #148", "appearsIn": "Anime" },
         "family": {
@@ -4659,7 +4659,7 @@
       {
         "id": 1417,
         "name": "Yūto",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/0/00/Yuto_Normal.png/revision/latest/scale-to-width-down/300?cb=20150316212026"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/0/00/Yuto_Normal.PNG/revision/latest/scale-to-width-down/300?cb=20150316212026"],
         "family": { "mother": "Malice" },
         "personal": { "sex": "Male", "status": "Deceased", "clan": "Rinha" }
       }
@@ -6070,7 +6070,7 @@
       {
         "id": 378,
         "name": "Hāto",
-        "images": ["https://static.wikia.nocookie.net/naruto/images/c/c0/Hato.png/revision/latest/scale-to-width-down/300?cb=20220324123018"],
+        "images": ["https://static.wikia.nocookie.net/naruto/images/c/c0/Hato.PNG/revision/latest/scale-to-width-down/300?cb=20220324123018"],
         "debut": {
           "anime": "Naruto Shippūden Episode #148",
           "appearsIn": "Anime"
@@ -6162,7 +6162,7 @@
         "id": 1266,
         "name": "Tsuchigumo Chief",
         "images": [
-          "https://static.wikia.nocookie.net/naruto/images/2/23/Tsuchigumo_chief.png/revision/latest/scale-to-width-down/300?cb=20170325143852"
+          "https://static.wikia.nocookie.net/naruto/images/2/23/Tsuchigumo_chief.PNG/revision/latest/scale-to-width-down/300?cb=20170325143852"
         ],
         "debut": {
           "anime": "Naruto Shippūden Episode #145",
