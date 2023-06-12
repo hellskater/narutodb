@@ -75,7 +75,7 @@
   {
     "id": 128,
     "name": "Bug",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/5/53/Bug_Infobox.png/revision/latest?cb=20210323133757"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/7/7d/Bug.png/revision/latest/scale-to-width-down/300?cb=20230221032750"],
     "debut": { "manga": "Boruto Chapter #56", "appearsIn": "Manga" },
     "personal": {
       "sex": "Male",
@@ -124,7 +124,7 @@
   {
     "id": 165,
     "name": "Daemon",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/2/27/Daemon.png/revision/latest/scale-to-width-down/300?cb=20210721041011"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/2/25/Daemon_infobox.png/revision/latest/scale-to-width-down/300?cb=20230226102324"],
     "debut": { "manga": "Boruto Chapter #59", "appearsIn": "Manga" },
     "family": { "sister": "Ada" },
     "jutsu": ["Reflection Shinjutsu"],
