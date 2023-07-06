@@ -2,7 +2,7 @@
   {
     "id": 1425,
     "name": "Black Zetsu",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/e/e9/Black_Zetsu.png/revision/latest/scale-to-width-down/300?cb=20220215005248"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/e/e9/Black_Zetsu.png"],
     "debut": {
       "manga": "Naruto Chapter #234",
       "anime": "Naruto Episode #134",
@@ -43,12 +43,8 @@
   {
     "id": 141,
     "name": "Chibi",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/d/d2/Chibi.png/revision/latest/scale-to-width-down/300?cb=20220209063003"],
-    "debut": {
-      "manga": "Naruto Chapter #445",
-      "anime": "Naruto Shippūden Episode #172",
-      "appearsIn": "Anime, Manga"
-    },
+    "images": ["https://static.wikia.nocookie.net/naruto/images/d/d2/Chibi.png"],
+    "debut": { "manga": "Naruto Chapter #445", "anime": "Naruto Shippūden Episode #172", "appearsIn": "Anime, Manga" },
     "personal": {
       "sex": "Male",
       "species": "Dog",
@@ -60,23 +56,18 @@
   {
     "id": 166,
     "name": "Daibutsu",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/a/a2/Daibutsu1.png/revision/latest/scale-to-width-down/300?cb=20140123134743"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/a/a2/Daibutsu1.png"],
     "debut": { "anime": "Naruto Shippūden Episode #347", "appearsIn": "Anime" },
     "jutsu": ["Water Prison Technique"],
     "natureType": ["Water Release"],
-    "personal": {
-      "sex": "Male",
-      "status": "Deceased",
-      "height": { "Part II": "210cm" },
-      "affiliation": "Akatsuki"
-    },
+    "personal": { "sex": "Male", "status": "Deceased", "height": { "Part II": "210cm" }, "affiliation": "Akatsuki" },
     "tools": ["Bō"],
     "voiceActors": { "japanese": "Kōsuke Gotō", "english": "Travis Willingham" }
   },
   {
     "id": 193,
     "name": "Deidara",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/0/06/Deidara.png/revision/latest/scale-to-width-down/300?cb=20160113165515"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/0/06/Deidara.png"],
     "debut": {
       "manga": "Naruto Chapter #247",
       "anime": "Naruto Shippūden Episode #2",
@@ -120,15 +111,12 @@
     },
     "rank": { "ninjaRegistration": "IW-08721" },
     "tools": ["Eye Scope", "Sword (Anime only)"],
-    "voiceActors": {
-      "japanese": "Katsuhiko Kawamoto",
-      "english": ["Quinton Flynn   (Episode 135)", "Roger Craig Smith"]
-    }
+    "voiceActors": { "japanese": "Katsuhiko Kawamoto", "english": ["Quinton Flynn   (Episode 135)", "Roger Craig Smith"] }
   },
   {
     "id": 195,
     "name": "Demonic Statue of the Outer Path",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/f/fe/Gedo_Mazo.png/revision/latest/scale-to-width-down/300?cb=20160124082312"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/f/fe/Gedo_Mazo.png"],
     "debut": {
       "manga": "Naruto Chapter #254",
       "anime": "Naruto Shippūden Episode #10",
@@ -139,34 +127,20 @@
     },
     "family": { "original form": "Ten-Tails" },
     "jutsu": ["The Springtime of Youth wiki has an article about this topic:", "Demonic Statue of the Outer Path"],
-    "personal": {
-      "status": "Incapacitated",
-      "classification": "Summon",
-      "affiliation": "Akatsuki"
-    }
+    "personal": { "status": "Incapacitated", "classification": "Summon", "affiliation": "Akatsuki" }
   },
   {
     "id": 325,
     "name": "Ginji",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/5/52/Ginji.png/revision/latest/scale-to-width-down/300?cb=20220118195200"],
-    "debut": {
-      "manga": "Naruto Chapter #355",
-      "anime": "Naruto Shippūden Episode #122",
-      "appearsIn": "Anime, Manga"
-    },
-    "personal": {
-      "sex": "Male",
-      "age": { "Part II": "23" },
-      "occupation": "Banker",
-      "affiliation": "Akatsuki",
-      "partner": "Kyōya"
-    },
+    "images": ["https://static.wikia.nocookie.net/naruto/images/5/52/Ginji.png"],
+    "debut": { "manga": "Naruto Chapter #355", "anime": "Naruto Shippūden Episode #122", "appearsIn": "Anime, Manga" },
+    "personal": { "sex": "Male", "age": { "Part II": "23" }, "occupation": "Banker", "affiliation": "Akatsuki", "partner": "Kyōya" },
     "voiceActors": { "japanese": "Kanji Suzumori", "english": "Patrick Seitz" }
   },
   {
     "id": 388,
     "name": "Hidan",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/e/e3/Hidan.png/revision/latest/scale-to-width-down/300?cb=20210911225839"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/e/e3/Hidan.png"],
     "debut": {
       "manga": "Naruto Chapter #312",
       "anime": "Naruto Shippūden Episode #71",
@@ -190,15 +164,12 @@
       "partner": "Kakuzu"
     },
     "tools": ["Retractable Spear", "Triple-Bladed Scythe"],
-    "voiceActors": {
-      "japanese": "Masaki Terasoma",
-      "english": ["Chris Edgerly", "Wally Wingert   (Naruto Shippūden: Clash of Ninja Revolution 3)"]
-    }
+    "voiceActors": { "japanese": "Masaki Terasoma", "english": ["Chris Edgerly", "Wally Wingert   (Naruto Shippūden: Clash of Ninja Revolution 3)"] }
   },
   {
     "id": 396,
     "name": "Himeyuri",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/2/24/Himeyuri.png/revision/latest/scale-to-width-down/300?cb=20200904060325"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/2/24/Himeyuri.png"],
     "debut": { "anime": "Naruto Shippūden Episode #485", "appearsIn": "Anime" },
     "personal": {
       "sex": "Female",
@@ -206,15 +177,12 @@
       "occupation": "Businesswoman",
       "affiliation": "Himeyuri Company\"Himeyuri Company\" is not in the list (Allied Shinobi Forces, Akatsuki, Root, Kara, Pale Blue Valley, Daidai Village, Aburame Clan, Academy, Advanced Technology Research Institute, Akagahara, ...) of allowed values for the \"Affiliation\" property."
     },
-    "voiceActors": {
-      "japanese": "Mariko Higashiuchi",
-      "english": "Colleen O'Shaughnessey"
-    }
+    "voiceActors": { "japanese": "Mariko Higashiuchi", "english": "Colleen O'Shaughnessey" }
   },
   {
     "id": 400,
     "name": "Hinoki",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/b/be/Hinoki.png/revision/latest?cb=20161116231059"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/b/be/Hinoki.png"],
     "debut": { "game": "Naruto: Path of the Ninja 2", "appearsIn": "Game" },
     "family": { "granddaughter": "Nazuna" },
     "personal": {
@@ -226,7 +194,7 @@
   {
     "id": 1293,
     "name": "Itachi Uchiha",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/b/bb/Itachi.png/revision/latest/scale-to-width-down/300?cb=20220214112531"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/b/bb/Itachi.png"],
     "debut": {
       "manga": "Naruto Chapter #139",
       "anime": "Naruto Episode #80",
@@ -236,12 +204,7 @@
       "ova": "Hidden Leaf Village Grand Sports Festival!",
       "appearsIn": "Anime, Manga, Novel, Game, Movie"
     },
-    "family": {
-      "father": "Fugaku Uchiha",
-      "mother": "Mikoto Uchiha",
-      "brother": "Sasuke Uchiha",
-      "niece": "Sarada Uchiha"
-    },
+    "family": { "father": "Fugaku Uchiha", "mother": "Mikoto Uchiha", "brother": "Sasuke Uchiha", "niece": "Sarada Uchiha" },
     "jutsu": [
       "Amaterasu",
       "Chakra Suppression Technique (Novel only)",
@@ -274,12 +237,7 @@
     "personal": {
       "birthdate": "June 9",
       "sex": "Male",
-      "age": {
-        "Part I": "17–18",
-        "Part II": "21",
-        "Academy Graduate": "7",
-        "Chunin Promotion": "10"
-      },
+      "age": { "Part I": "17–18", "Part II": "21", "Academy Graduate": "7", "Chunin Promotion": "10" },
       "status": "Deceased",
       "height": { "Part I": "175.2cm", "Part II": "178cm" },
       "weight": { "Part I": "57.1kg", "Part II": "58kg" },
@@ -296,10 +254,7 @@
         "itachiOfTheSharingan(写輪眼のイタチ,SharinganNoItachi,LiterallyMeaning:ItachiOfTheCopyWheelEye)clanKillerItachi(一族殺しのイタチ,IchizokugoroshiNoItachi)"
       ]
     },
-    "rank": {
-      "ninjaRank": { "Part I": "Anbu" },
-      "ninjaRegistration": "012110"
-    },
+    "rank": { "ninjaRank": { "Part I": "Anbu" }, "ninjaRegistration": "012110" },
     "tools": ["Military Rations Pill (Anime only)", "Sword", "Sword of Totsuka", "Tantō (Anime only)", "Yata Mirror"],
     "voiceActors": {
       "japanese": ["Hideo Ishikawa", "Yuka Terasaki   (Child)"],
@@ -310,8 +265,8 @@
     "id": 521,
     "name": "Jūgo",
     "images": [
-      "https://static.wikia.nocookie.net/naruto/images/4/42/Jugo.png/revision/latest/scale-to-width-down/300?cb=20150616195401",
-      "https://static.wikia.nocookie.net/naruto/images/a/af/Jugo_Part_III.png/revision/latest/scale-to-width-down/300?cb=20190331023455"
+      "https://static.wikia.nocookie.net/naruto/images/4/42/Jugo.png",
+      "https://static.wikia.nocookie.net/naruto/images/a/af/Jugo_Part_III.png"
     ],
     "debut": {
       "manga": "Naruto Chapter #348",
@@ -350,17 +305,14 @@
     },
     "tools": ["Naruto Mobile20162016"],
     "uniqueTraits": ["Can absorb chakra"],
-    "voiceActors": {
-      "japanese": "Shūhei Sakaguchi",
-      "english": ["Travis Willingham", "Kyle Hebert   (Boruto #22+)"]
-    }
+    "voiceActors": { "japanese": "Shūhei Sakaguchi", "english": ["Travis Willingham", "Kyle Hebert   (Boruto #22+)"] }
   },
   {
     "id": 1359,
     "name": "Kabuto Yakushi",
     "images": [
-      "https://static.wikia.nocookie.net/naruto/images/c/c9/Kabuto_Part_1.png/revision/latest/scale-to-width-down/300?cb=20170906101523",
-      "https://static.wikia.nocookie.net/naruto/images/0/0b/Kabuto_Part_II.png/revision/latest/scale-to-width-down/300?cb=20170906101626"
+      "https://static.wikia.nocookie.net/naruto/images/c/c9/Kabuto_Part_1.png",
+      "https://static.wikia.nocookie.net/naruto/images/0/0b/Kabuto_Part_II.png"
     ],
     "debut": {
       "manga": "Naruto Chapter #39",
@@ -371,11 +323,7 @@
       "ova": "Hidden Leaf Village Grand Sports Festival!",
       "appearsIn": "Anime, Manga, Novel, Game, Movie"
     },
-    "family": {
-      "adoptive mother": "Nonō Yakushi",
-      "adoptive sons": "Shin Uchiha",
-      "adoptive brother": "Urushi"
-    },
+    "family": { "adoptive mother": "Nonō Yakushi", "adoptive sons": "Shin Uchiha", "adoptive brother": "Urushi" },
     "jutsu": [
       "Attack of the Twin Demons",
       "Body Fluid Shedding Technique",
@@ -419,11 +367,7 @@
     "personal": {
       "birthdate": "February 29",
       "sex": "Male",
-      "age": {
-        "Part I": "19–20",
-        "Part II": "23–24",
-        "Academy Graduate": "10"
-      },
+      "age": { "Part I": "19–20", "Part II": "23–24", "Academy Graduate": "10" },
       "height": { "Part I": "176.2cm", "Part II": "177cm" },
       "weight": { "Part I": "65kg" },
       "bloodType": "AB",
@@ -435,10 +379,7 @@
       "partner": "Orochimaru",
       "titles": ["薬師カブトYakushiKabuto"]
     },
-    "rank": {
-      "ninjaRank": { "Part I": "Genin" },
-      "ninjaRegistration": "012140"
-    },
+    "rank": { "ninjaRank": { "Part I": "Genin" }, "ninjaRegistration": "012140" },
     "tools": [
       "Blood Increasing Pill",
       "Blowpipe (Anime only)",
@@ -457,7 +398,7 @@
   {
     "id": 558,
     "name": "Kakuzu",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/5/57/Kakuzu.png/revision/latest/scale-to-width-down/300?cb=20160115192126"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/5/57/Kakuzu.png"],
     "debut": {
       "manga": "Naruto Chapter #312",
       "anime": "Naruto Shippūden Episode #71",
@@ -482,32 +423,21 @@
       "affiliation": ["Takigakure", "Akatsuki"],
       "partner": ["Kakuzu's Partner", "Hidan"]
     },
-    "voiceActors": {
-      "japanese": "Takaya Hashi",
-      "english": ["Paul St. Peter   (Episode 135)", "Fred Tatasciore"]
-    }
+    "voiceActors": { "japanese": "Takaya Hashi", "english": ["Paul St. Peter   (Episode 135)", "Fred Tatasciore"] }
   },
   {
     "id": 559,
     "name": "Kakuzu's Partner",
-    "images": [
-      "https://static.wikia.nocookie.net/naruto/images/c/cc/Kakuzu%27s_Partner.png/revision/latest/scale-to-width-down/300?cb=20220206080000"
-    ],
-    "personal": {
-      "sex": "Male",
-      "status": "Deceased",
-      "classification": "Missing-nin",
-      "affiliation": "Akatsuki",
-      "partner": "Kakuzu"
-    },
+    "images": ["https://static.wikia.nocookie.net/naruto/images/c/cc/Kakuzu%27s_Partner.png"],
+    "personal": { "sex": "Male", "status": "Deceased", "classification": "Missing-nin", "affiliation": "Akatsuki", "partner": "Kakuzu" },
     "tools": []
   },
   {
     "id": 593,
     "name": "Karin",
     "images": [
-      "https://static.wikia.nocookie.net/naruto/images/7/72/Karin3.png/revision/latest/scale-to-width-down/300?cb=20170906102126",
-      "https://static.wikia.nocookie.net/naruto/images/6/6e/Karin_p3.png/revision/latest/scale-to-width-down/300?cb=20200424161214"
+      "https://static.wikia.nocookie.net/naruto/images/7/72/Karin3.png",
+      "https://static.wikia.nocookie.net/naruto/images/6/6e/Karin_p3.png"
     ],
     "debut": {
       "manga": "Naruto Chapter #347",
@@ -541,37 +471,26 @@
     },
     "rank": { "ninjaRank": { "Part II": "Genin" } },
     "tools": ["Naruto Mobile20162016"],
-    "voiceActors": {
-      "japanese": ["Kanako Tōjō", "Toa Yukinari   (Shippūden episode 485+)"],
-      "english": "Ali Hillis"
-    },
+    "voiceActors": { "japanese": ["Kanako Tōjō", "Toa Yukinari   (Shippūden episode 485+)"], "english": "Ali Hillis" },
     "香燐Karin": {}
   },
   {
     "id": 627,
     "name": "Kie",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/6/60/Monjin.png/revision/latest/scale-to-width-down/300?cb=20140317160031"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/6/60/Monjin.png"],
     "debut": {
       "manga": "Naruto Chapter #509",
       "anime": "Naruto Shippūden Episode #252",
       "game": "Naruto Shippūden: Ultimate Ninja Storm 3",
       "appearsIn": "Anime, Manga, Game"
     },
-    "personal": {
-      "sex": "Male",
-      "age": { "Part II": "18" },
-      "status": "Deceased",
-      "affiliation": ["Amegakure", "Akatsuki"]
-    },
-    "voiceActors": {
-      "japanese": "Shinobu Matsumoto",
-      "english": "Richard Epcar"
-    }
+    "personal": { "sex": "Male", "age": { "Part II": "18" }, "status": "Deceased", "affiliation": ["Amegakure", "Akatsuki"] },
+    "voiceActors": { "japanese": "Shinobu Matsumoto", "english": "Richard Epcar" }
   },
   {
     "id": 421,
     "name": "Kisame Hoshigaki",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/2/25/Kisame.png/revision/latest/scale-to-width-down/300?cb=20220205140601"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/2/25/Kisame.png"],
     "debut": {
       "manga": "Naruto Chapter #139",
       "anime": "Naruto Episode #80",
@@ -615,15 +534,12 @@
     "rank": {},
     "tools": ["Samehada", "Sword"],
     "uniqueTraits": ["Can absorb chakra", "Gills"],
-    "voiceActors": {
-      "japanese": "Tomoyuki Dan",
-      "english": ["Michael McConnohie   (Episode 80)", "Kirk Thornton   (Episode 81+)"]
-    }
+    "voiceActors": { "japanese": "Tomoyuki Dan", "english": ["Michael McConnohie   (Episode 80)", "Kirk Thornton   (Episode 81+)"] }
   },
   {
     "id": 684,
     "name": "Konan",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/5/58/Konan_Infobox.png/revision/latest/scale-to-width-down/300?cb=20220206081756"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/5/58/Konan_Infobox.png"],
     "debut": {
       "manga": "Naruto Chapter #363",
       "anime": "Naruto Shippūden Episode #125",
@@ -658,33 +574,20 @@
       "partner": "Nagato"
     },
     "tools": ["Explosive Tag"],
-    "voiceActors": {
-      "japanese": ["Atsuko Tanaka", "Kaori Mine   (Child)"],
-      "english": "Dorothy Elias-Fahn"
-    }
+    "voiceActors": { "japanese": ["Atsuko Tanaka", "Kaori Mine   (Child)"], "english": "Dorothy Elias-Fahn" }
   },
   {
     "id": 735,
     "name": "Kyōya",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/7/7e/Kyoya.png/revision/latest/scale-to-width-down/300?cb=20220118195325"],
-    "debut": {
-      "manga": "Naruto Chapter #355",
-      "anime": "Naruto Shippūden Episode #122",
-      "appearsIn": "Anime, Manga"
-    },
-    "personal": {
-      "sex": "Male",
-      "age": { "Part II": "23" },
-      "occupation": "Accountant",
-      "affiliation": "Akatsuki",
-      "partner": "Ginji"
-    },
+    "images": ["https://static.wikia.nocookie.net/naruto/images/7/7e/Kyoya.png"],
+    "debut": { "manga": "Naruto Chapter #355", "anime": "Naruto Shippūden Episode #122", "appearsIn": "Anime, Manga" },
+    "personal": { "sex": "Male", "age": { "Part II": "23" }, "occupation": "Accountant", "affiliation": "Akatsuki", "partner": "Ginji" },
     "voiceActors": { "japanese": "Takafumi Kawakami", "english": "Tony Oliver" }
   },
   {
     "id": 736,
     "name": "Kyūsuke",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/e/e7/Kyusuke.png/revision/latest/scale-to-width-down/300?cb=20140123150414"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/e/e7/Kyusuke.png"],
     "debut": {
       "manga": "Naruto Chapter #446",
       "anime": "Naruto Shippūden Episode #173",
@@ -701,15 +604,12 @@
       "affiliation": ["Amegakure", "Akatsuki"]
     },
     "tools": ["Sword (Anime only)"],
-    "voiceActors": {
-      "japanese": "Hidenobu Kiuchi",
-      "english": "Keith Silverstein"
-    }
+    "voiceActors": { "japanese": "Hidenobu Kiuchi", "english": "Keith Silverstein" }
   },
   {
     "id": 1299,
     "name": "Madara Uchiha",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/f/fd/Madara.png/revision/latest/scale-to-width-down/300?cb=20160115141947"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/f/fd/Madara.png"],
     "debut": {
       "manga": "Naruto Chapter #370",
       "anime": "Naruto Shippūden Episode #130",
@@ -809,15 +709,12 @@
     },
     "tools": ["Fūma Shuriken", "Gunbai", "Kama", "Spear (Anime only)", "Sword", "Tantō (Anime only)"],
     "uniqueTraits": ["Can absorb chakra"],
-    "voiceActors": {
-      "japanese": ["Naoya Uchida", "Gō Inoue   (Child)"],
-      "english": ["Neil Kaplan", "Xander Mobus   (Child)"]
-    }
+    "voiceActors": { "japanese": ["Naoya Uchida", "Gō Inoue   (Child)"], "english": ["Neil Kaplan", "Xander Mobus   (Child)"] }
   },
   {
     "id": 755,
     "name": "Makibi",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/4/4c/Makibi.png/revision/latest/scale-to-width-down/300?cb=20200904053007"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/4/4c/Makibi.png"],
     "debut": { "anime": "Naruto Shippūden Episode #485", "appearsIn": "Anime" },
     "personal": {
       "sex": "Male",
@@ -830,15 +727,10 @@
     "id": 762,
     "name": "Manda II",
     "images": [
-      "https://static.wikia.nocookie.net/naruto/images/0/02/Manda_2.png/revision/latest/scale-to-width-down/300?cb=20150807091646",
-      "https://static.wikia.nocookie.net/naruto/images/3/3b/Manda_II.png/revision/latest/scale-to-width-down/300?cb=20181014182428"
+      "https://static.wikia.nocookie.net/naruto/images/0/02/Manda_2.png",
+      "https://static.wikia.nocookie.net/naruto/images/3/3b/Manda_II.png"
     ],
-    "debut": {
-      "manga": "Naruto Chapter #513",
-      "anime": "Naruto Shippūden Episode #255",
-      "game": "Naruto Mobile",
-      "appearsIn": "Anime, Manga, Game"
-    },
+    "debut": { "manga": "Naruto Chapter #513", "anime": "Naruto Shippūden Episode #255", "game": "Naruto Mobile", "appearsIn": "Anime, Manga, Game" },
     "family": { "genetic source": "Manda" },
     "jutsu": [],
     "personal": {
@@ -854,11 +746,7 @@
     "id": 778,
     "name": "Mecha-Naruto",
     "images": [],
-    "debut": {
-      "anime": "Naruto Shippūden Episode #376",
-      "game": "Naruto Shippūden: Ultimate Ninja Storm Revolution",
-      "appearsIn": "Anime, Game"
-    },
+    "debut": { "anime": "Naruto Shippūden Episode #376", "game": "Naruto Shippūden: Ultimate Ninja Storm Revolution", "appearsIn": "Anime, Game" },
     "family": { "creator": "Orochimaru" },
     "jutsu": ["Naruto Shippūden: Ultimate Ninja Storm Revolution11 September 201416 September 2014"],
     "personal": {
@@ -873,7 +761,7 @@
   {
     "id": 850,
     "name": "Mukade",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/b/b3/Mukade.png/revision/latest/scale-to-width-down/300?cb=20160113184900"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/b/b3/Mukade.png"],
     "debut": {
       "manga": "Naruto Chapter #260",
       "anime": "Naruto Shippūden Episode #15",
@@ -894,7 +782,7 @@
   {
     "id": 861,
     "name": "Nagato",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/4/46/Nagato.png/revision/latest/scale-to-width-down/300?cb=20150821081644"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/4/46/Nagato.png"],
     "debut": {
       "manga": "Naruto Chapter #372",
       "anime": "Naruto Shippūden Episode #128",
@@ -951,7 +839,7 @@
   {
     "id": 887,
     "name": "Nazuna",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/2/2b/Nazuna.png/revision/latest?cb=20161116232518"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/2/2b/Nazuna.png"],
     "debut": { "game": "Naruto: Path of the Ninja 2", "appearsIn": "Game" },
     "family": {},
     "personal": {
@@ -963,8 +851,8 @@
     "id": 1303,
     "name": "Obito Uchiha",
     "images": [
-      "https://static.wikia.nocookie.net/naruto/images/4/4a/Obito_Uchiha.png/revision/latest/scale-to-width-down/300?cb=20220223045744",
-      "https://static.wikia.nocookie.net/naruto/images/3/3c/Obito.png/revision/latest/scale-to-width-down/300?cb=20220223050540"
+      "https://static.wikia.nocookie.net/naruto/images/4/4a/Obito_Uchiha.png",
+      "https://static.wikia.nocookie.net/naruto/images/3/3c/Obito.png"
     ],
     "debut": {
       "manga": "Naruto Chapter #239",
@@ -1037,12 +925,7 @@
     "personal": {
       "birthdate": "February 10",
       "sex": "Male",
-      "age": {
-        "Part I": "13  (Kakashi Gaiden)",
-        "Part II": "31",
-        "Academy Graduate": "9",
-        "Chunin Promotion": "11"
-      },
+      "age": { "Part I": "13  (Kakashi Gaiden)", "Part II": "31", "Academy Graduate": "9", "Chunin Promotion": "11" },
       "status": "Deceased",
       "height": { "Part I": "154.2cm", "Part II": "175cm - 182cm" },
       "weight": { "Part I": "44.5kg", "Part II": "55.9kg - 70.3kg" },
@@ -1064,10 +947,7 @@
         "saviour(救世主,Kyūseishu)"
       ]
     },
-    "rank": {
-      "ninjaRank": { "Part I": "Chūnin" },
-      "ninjaRegistration": "010886"
-    },
+    "rank": { "ninjaRank": { "Part I": "Chūnin" }, "ninjaRegistration": "010886" },
     "tools": ["Fūma Shuriken", "Gunbai", "Kusari", "Sword", "Sword of Nunoboko"],
     "uniqueTraits": ["Can absorb chakra"],
     "voiceActors": {
@@ -1090,8 +970,8 @@
     "id": 928,
     "name": "Orochimaru",
     "images": [
-      "https://static.wikia.nocookie.net/naruto/images/1/14/Orochimaru_Infobox.png/revision/latest/scale-to-width-down/300?cb=20150925223113",
-      "https://static.wikia.nocookie.net/naruto/images/b/be/Orochimaru_Part_III.png/revision/latest/scale-to-width-down/300?cb=20180802114922"
+      "https://static.wikia.nocookie.net/naruto/images/1/14/Orochimaru_Infobox.png",
+      "https://static.wikia.nocookie.net/naruto/images/b/be/Orochimaru_Part_III.png"
     ],
     "debut": {
       "manga": "Naruto Chapter #45",
@@ -1166,11 +1046,7 @@
       "birthdate": "October 27",
       "sex": "File:Gender Various.svg Various",
       "age": { "Part I": "50–51", "Part II": "54", "Academy Graduate": "6" },
-      "height": {
-        "Part I": "179.4cm - 172cm",
-        "Part II": "172cm",
-        "Gaiden": "179.5cm"
-      },
+      "height": { "Part I": "179.4cm - 172cm", "Part II": "172cm", "Gaiden": "179.5cm" },
       "weight": { "Part I": "63.9kg - 57.3kg", "Part II": "57.3kg" },
       "bloodType": "B",
       "kekkeiGenkai": ["Jūgo's Clan's Kekkei Genkai", "Sakon and Ukon's Kekkei Genkai", "Shikotsumyaku", "Wood Release"],
@@ -1180,10 +1056,7 @@
       "team": ["Team Hiruzen", "Team Orochimaru", "Team Dosu"],
       "partner": ["Sasori", "Kabuto Yakushi"]
     },
-    "rank": {
-      "ninjaRank": { "Part I": "Anbu" },
-      "ninjaRegistration": "002300"
-    },
+    "rank": { "ninjaRank": { "Part I": "Anbu" }, "ninjaRegistration": "002300" },
     "tools": ["Genjutsu Pill (Anime only)", "Mind Awakening Pill", "Poison", "Shinigami Mask", "Sword", "Sword of Kusanagi"],
     "uniqueTraits": ["Can absorb chakra"],
     "voiceActors": {
@@ -1200,7 +1073,7 @@
   {
     "id": 960,
     "name": "Raimei",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/f/f8/Raimei.png/revision/latest/scale-to-width-down/300?cb=20161210114201"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/f/f8/Raimei.png"],
     "debut": { "anime": "Naruto Shippūden Episode #485", "appearsIn": "Anime" },
     "natureType": ["Lightning Release"],
     "personal": {
@@ -1225,7 +1098,7 @@
   {
     "id": 1000,
     "name": "Sabu",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/8/8a/Sabu.png/revision/latest/scale-to-width-down/300?cb=20220209203652"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/8/8a/Sabu.png"],
     "debut": {
       "manga": "Naruto Chapter #468",
       "anime": "Naruto Shippūden Episode #206",
@@ -1250,7 +1123,7 @@
   {
     "id": 1042,
     "name": "Sasori",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/f/f7/Sasori.png/revision/latest/scale-to-width-down/300?cb=20170127174522"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/f/f7/Sasori.png"],
     "debut": {
       "manga": "Naruto Chapter #247",
       "anime": "Naruto Shippūden Episode #2",
@@ -1260,12 +1133,7 @@
       "ova": "Naruto Shippūden: UNSG anime cutscenes",
       "appearsIn": "Anime, Manga, Novel, Game, Movie"
     },
-    "family": {
-      "father": "Sasori's Father",
-      "mother": "Sasori's Mother",
-      "grandmother": "Chiyo",
-      "granduncle": "Ebizō"
-    },
+    "family": { "father": "Sasori's Father", "mother": "Sasori's Mother", "grandmother": "Chiyo", "granduncle": "Ebizō" },
     "jutsu": [
       "Iron Sand Drizzle",
       "Iron Sand Gathering Assault",
@@ -1283,11 +1151,7 @@
     "personal": {
       "birthdate": "November 8",
       "sex": "Male",
-      "age": {
-        "Part II": "35",
-        "Academy Graduate": "7",
-        "Chunin Promotion": "8"
-      },
+      "age": { "Part II": "35", "Academy Graduate": "7", "Chunin Promotion": "8" },
       "status": "Deceased",
       "height": { "Part II": "164.1cm" },
       "weight": { "Part II": "47.3kg" },
@@ -1327,8 +1191,8 @@
     "id": 1307,
     "name": "Sasuke Uchiha",
     "images": [
-      "https://static.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png/revision/latest/scale-to-width-down/300?cb=20170716092103",
-      "https://static.wikia.nocookie.net/naruto/images/1/13/Sasuke_Part_2.png/revision/latest/scale-to-width-down/300?cb=20170716092003"
+      "https://static.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png",
+      "https://static.wikia.nocookie.net/naruto/images/1/13/Sasuke_Part_2.png"
     ],
     "debut": {
       "manga": "Naruto Chapter #3",
@@ -1427,16 +1291,8 @@
     "personal": {
       "birthdate": "July 23",
       "sex": "Male",
-      "age": {
-        "Part I": "12–13",
-        "Part II": "16–17",
-        "Academy Graduate": "12"
-      },
-      "height": {
-        "Part I": "150.8cm - 153.2cm",
-        "Part II": "168cm",
-        "Blank Period": "182cm"
-      },
+      "age": { "Part I": "12–13", "Part II": "16–17", "Academy Graduate": "12" },
+      "height": { "Part I": "150.8cm - 153.2cm", "Part II": "168cm", "Blank Period": "182cm" },
       "weight": { "Part I": "42.2kg - 43.5kg", "Part II": "52.2kg" },
       "bloodType": "AB",
       "kekkeiGenkai": ["Sharingan", "Eternal Mangekyō Sharingan", "Rinnegan"],
@@ -1452,10 +1308,7 @@
         "supportingKage(支う影,Sasaukage,LiterallyMeaning:SupportingShadow)"
       ]
     },
-    "rank": {
-      "ninjaRank": { "Part I": "Genin" },
-      "ninjaRegistration": "012606"
-    },
+    "rank": { "ninjaRank": { "Part I": "Genin" }, "ninjaRegistration": "012606" },
     "tools": [
       "Bow & Arrow",
       "Fūma Shuriken",
@@ -1467,15 +1320,12 @@
       "Sword of Kusanagi",
       "Wire Strings"
     ],
-    "voiceActors": {
-      "japanese": ["Noriaki Sugiyama", "Nao Tōyama   (Infant and Child)"],
-      "english": ["Yuri Lowenthal", "Erica Mendez   (Infant)"]
-    }
+    "voiceActors": { "japanese": ["Noriaki Sugiyama", "Nao Tōyama   (Infant and Child)"], "english": ["Yuri Lowenthal", "Erica Mendez   (Infant)"] }
   },
   {
     "id": 1309,
     "name": "Shin Uchiha",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/c/cd/Shin_uchiha.png/revision/latest/scale-to-width-down/300?cb=20170830100428"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/c/cd/Shin_uchiha.png"],
     "debut": {
       "manga": "Naruto Chapter #700+2",
       "anime": "Boruto Episode #20",
@@ -1500,8 +1350,8 @@
     "id": 430,
     "name": "Suigetsu Hōzuki",
     "images": [
-      "https://static.wikia.nocookie.net/naruto/images/3/3e/Suigetsu_H%C5%8Dzuki.png/revision/latest/scale-to-width-down/300?cb=20171012002428",
-      "https://static.wikia.nocookie.net/naruto/images/7/72/Suigetsu_part_III.png/revision/latest/scale-to-width-down/300?cb=20171012002622"
+      "https://static.wikia.nocookie.net/naruto/images/3/3e/Suigetsu_H%C5%8Dzuki.png",
+      "https://static.wikia.nocookie.net/naruto/images/7/72/Suigetsu_part_III.png"
     ],
     "debut": {
       "manga": "Naruto Chapter #346",
@@ -1542,7 +1392,7 @@
   {
     "id": 1167,
     "name": "Suzuran",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/c/cc/Suzuran.png/revision/latest/scale-to-width-down/300?cb=20161210113042"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/c/cc/Suzuran.png"],
     "debut": { "anime": "Naruto Shippūden Episode #485", "appearsIn": "Anime" },
     "personal": {
       "sex": "Male",
@@ -1552,7 +1402,7 @@
   {
     "id": 1229,
     "name": "Tobi (Zetsu)",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/7/72/Tobi.png/revision/latest/scale-to-width-down/300?cb=20160211005532"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/7/72/Tobi.png"],
     "debut": {
       "manga": "Naruto Chapter #602",
       "anime": "Naruto Shippūden Episode #344",
@@ -1573,10 +1423,7 @@
       "partner": ["White Zetsu", "Obito Uchiha"],
       "titles": ["トビTobi", "guruguru(グルグル,EnglishTv:Swirly)"]
     },
-    "voiceActors": {
-      "japanese": "Nobuo Tobita",
-      "english": ["Travis Willingham", "Michael Yurchak   (Ultimate Ninja Storm 4)"]
-    }
+    "voiceActors": { "japanese": "Nobuo Tobita", "english": ["Travis Willingham", "Michael Yurchak   (Ultimate Ninja Storm 4)"] }
   },
   {
     "id": 1284,
@@ -1594,7 +1441,7 @@
   {
     "id": 1426,
     "name": "White Zetsu",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/5/5f/White_Zetsu.png/revision/latest/scale-to-width-down/300?cb=20220219044442"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/5/5f/White_Zetsu.png"],
     "debut": {
       "manga": "Naruto Chapter #234",
       "anime": "Naruto Episode #134",
@@ -1629,15 +1476,12 @@
       "partner": ["Black Zetsu", "Obito Uchiha"]
     },
     "tools": ["Samehada"],
-    "voiceActors": {
-      "japanese": "Nobuo Tobita",
-      "english": ["Travis Willingham", "Brian Beacock   (Naruto episode 135)"]
-    }
+    "voiceActors": { "japanese": "Nobuo Tobita", "english": ["Travis Willingham", "Brian Beacock   (Naruto episode 135)"] }
   },
   {
     "id": 1356,
     "name": "Yahiko",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/7/76/Yahiko.png/revision/latest/scale-to-width-down/300?cb=20220206074136"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/7/76/Yahiko.png"],
     "debut": {
       "manga": "Naruto Chapter #372",
       "anime": "Naruto Shippūden Episode #128",
@@ -1670,9 +1514,7 @@
   {
     "id": 1409,
     "name": "Yūra",
-    "images": [
-      "https://static.wikia.nocookie.net/naruto/images/8/85/Yura_in_sand_outfit.png/revision/latest/scale-to-width-down/300?cb=20160103184321"
-    ],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/8/85/Yura_in_sand_outfit.png"],
     "debut": {
       "manga": "Naruto Chapter #247",
       "anime": "Naruto Shippūden Episode #2",
@@ -1691,31 +1533,20 @@
       "affiliation": ["Sunagakure", "Akatsuki"],
       "team": "Suna Council"
     },
-    "rank": {
-      "ninjaRank": { "Part II": "Jōnin" },
-      "ninjaRegistration": "44-005"
-    },
-    "voiceActors": {
-      "japanese": "Hideo Watanabe",
-      "english": "Keith Silverstein"
-    }
+    "rank": { "ninjaRank": { "Part II": "Jōnin" }, "ninjaRegistration": "44-005" },
+    "voiceActors": { "japanese": "Hideo Watanabe", "english": "Keith Silverstein" }
   },
   {
     "id": 1420,
     "name": "Zangei",
-    "images": ["https://static.wikia.nocookie.net/naruto/images/f/fc/Zangei.png/revision/latest/scale-to-width-down/300?cb=20150712134729"],
+    "images": ["https://static.wikia.nocookie.net/naruto/images/f/fc/Zangei.png"],
     "debut": {
       "manga": "Naruto Chapter #320",
       "anime": "Naruto Shippūden Episode #76",
       "game": "Naruto Shippūden: Ultimate Ninja Blazing",
       "appearsIn": "Anime, Manga, Game"
     },
-    "personal": {
-      "sex": "Male",
-      "age": { "Part II": "36" },
-      "occupation": "Bounty exchange master",
-      "affiliation": ["Akatsuki", "Land of Fire"]
-    },
+    "personal": { "sex": "Male", "age": { "Part II": "36" }, "occupation": "Bounty exchange master", "affiliation": ["Akatsuki", "Land of Fire"] },
     "voiceActors": { "japanese": "Kōji Fujiyoshi", "english": "Kirk Thornton" }
   }
 ]
